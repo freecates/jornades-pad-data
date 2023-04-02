@@ -1,0 +1,38 @@
+[
+    {
+        "meta": {
+            "pageTitle": "Les Jornades PAD: PAD_3DT, PAD_ESPIGA'T, PAD_MEV, PAD_FIDA",
+            "title": "Jornades PAD",
+            "pageDescription": "Les Jornades PAD: PAD_3DT, PAD_ESPIGA'T, PAD_MEV, PAD_FIDA"
+        },
+        "content": {
+            "title": "Les Jornades PAD",
+            "pads": [
+                {
+                    "name": "PAD_3DT",
+                    "place": "Cartoixa Museu de Terrassa",
+                    "map": "https://www.google.com/maps/dir/?api=1&destination=41.5646448,2.0191426",
+                    "date": "2023-06-02T22:00:00.000Z"
+                },
+                {
+                    "name": "PAD_ESPIGA'T",
+                    "place": "Farinera de Santa Coloma de Queralt",
+                    "map": "https://www.google.com/maps/dir/?api=1&destination=41.5298435,1.377721",
+                    "date": "2023-07-08T22:00:00.000Z"
+                },
+                {
+                    "name": "PAD_MEV",
+                    "place": "Museu d'Art Medieval de Vic",
+                    "map": "https://www.google.com/maps/dir/?api=1&destination=41.928617,2.2557241",
+                    "date": "2023-10-08T22:00:00.000Z"
+                },
+                {
+                    "name": "PAD_FIDA",
+                    "place": "Ateneu de la Fundació Iluro",
+                    "map": "https://www.google.com/maps/dir/?api=1&destination=41.541322,2.444209",
+                    "date": "2023-12-16T22:00:00.000Z"
+                }
+            ]
+        }
+    }
+]
