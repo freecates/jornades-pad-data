@@ -1,0 +1,21 @@
+[
+    {
+        "routes": [
+            {
+                "name": "El Pad",
+                "description": "PAD (Patrimoni Art Digital) una proposta d'arts digitals que dirigeix la Nut, la nostra influencer digital...",
+                "route": "/el-pad"
+            },
+            {
+                "name": "La Nut",
+                "description": "La Nut és una influencer, però no una influencer com a qualsevol altre, és una influencer digital!",
+                "route": "/la-nut"
+            },
+            {
+                "name": "Les Jornades PAD",
+                "description": "PAD_3DT / PAD_ESPIGA'T / PAD_MEV / PAD_FIDA",
+                "route": "/les-jornades-pad"
+            }
+        ]
+    }
+]
