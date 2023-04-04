@@ -15,7 +15,8 @@
                     "date": "2023-06-02T08:30:00.000Z",
                     "startTime": "10:30",
                     "summary": "Organitzat pel museu de Terrassa en col.laboració Adhoc Cultura, el 3DT és un projecte integral que promociona l'ús de la tecnologia de l'escaneig 3D i la realitat augmentada dins del sector patrimonial de la ciutat de Terrassa. Es tracta d'una iniciativa comunitària que neix amb propòsit d'operar de forma col·laborativa i transversal que aporta un nou format amb el propòsit de divulgar i conservar la cultura i del patrimoni en concret de la ciutat. PAD_3DT esdevé l'espai on promoure el 3D i la realitat augmentada en noves propostes artístiques esdevé un punt de partida pel foment de la creativitat. Una selecció del fons artístic del museu i el patrimoni digitalitzat serviran d'inspiració als i les artistes seleccionades per la jornada",
-                    "route": "pad-3dt"
+                    "route": "pad-3dt",
+                    "color": "#be1622"
                 },
                 {
                     "name": "PAD_ESPIGA'T",
