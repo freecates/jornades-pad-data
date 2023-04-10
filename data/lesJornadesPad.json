@@ -14,7 +14,7 @@
                     "map": "https://www.google.com/maps/dir/?api=1&destination=41.5646448,2.0191426",
                     "date": "2023-06-02T08:30:00.000Z",
                     "startTime": "10:30",
-                    "summary": "Organitzat pel museu de Terrassa en col.laboració Adhoc Cultura, el 3DT és un projecte integral que promociona l'ús de la tecnologia de l'escaneig 3D i la realitat augmentada dins del sector patrimonial de la ciutat de Terrassa. Es tracta d'una iniciativa comunitària que neix amb propòsit d'operar de forma col·laborativa i transversal que aporta un nou format amb el propòsit de divulgar i conservar la cultura i del patrimoni en concret de la ciutat. PAD_3DT esdevé l'espai on promoure el 3D i la realitat augmentada en noves propostes artístiques esdevé un punt de partida pel foment de la creativitat. Una selecció del fons artístic del museu i el patrimoni digitalitzat serviran d'inspiració als i les artistes seleccionades per la jornada",
+                    "summary": "<p>Organitzat pel museu de Terrassa en col·laboració Adhoc Cultura. El 3DT és un projecte integral que promociona l'ús de la tecnologia, l'escaneig 3D i la realitat augmentada, dins del sector patrimonial de la ciutat de Terrassa. És una iniciativa comunitària que neix amb el propòsit d'operar de forma col·laborativa i transversal.</p><p>En aquest context s'emmarca el PAD_3DT. Amb ell es vol promoure la creació artística a través del llenguatge digital amb la finalitat de divulgar i conservar la cultura i del patrimoni, en aquest cas, el de la ciutat de Terrassa. Partint de la selecció del fons artístic del museu de Terrassa i el patrimoni material, els i les artistes seleccionades per la jornada hauran de crear una nova peça digital.</p>",
                     "route": "pad-3dt",
                     "color": "#be1622"
                 },
@@ -24,7 +24,7 @@
                     "startTime": "10:30",
                     "map": "https://www.google.com/maps/dir/?api=1&destination=41.5298435,1.377721",
                     "date": "2023-07-08T08:30:00.000Z",
-                    "summary": "S'emmarca dins el programa de dinamització d'aquest equipament sociocultural de Santa Coloma de Queralt. La Jornada esdevé l'espai creatiu destinat a joves artistes de la Baixa Segarra i la Conca del Barberà. A través de la selecció d'obres del fons artístic i patrimonial de La Farinera del ajuntament de Santa Coloma de Queralt, quatre joves artistes s'inspiraran i crearan quatre noves peces d'art digital.",
+                    "summary": "<p>El PAD_ESPIGA'T s'emmarca dins el programa de dinamització de l'equipament sociocultural de Santa Coloma de Queralt, la Farinera.</p><p>La Jornada del PAD_ESPIGA'T posa a disposició de joves artistes de la Baixa Segarra i la Conca del Barberà, l'espai de la Farinera com a espai creatiu. A través de la selecció d'obres del fons artístic i patrimonial de La Farinera i de l'Ajuntament de Santa Coloma de Queralt, quatre joves artistes s'inspiraran i crearan quatre noves peces d'art digital.</p>",
                     "route": "pad-espiga-t"
                 },
                 {
@@ -33,7 +33,7 @@
                     "startTime": "10:30",
                     "map": "https://www.google.com/maps/dir/?api=1&destination=41.928617,2.2557241",
                     "date": "2023-10-08T08:30:00.000Z",
-                    "summary": "Forma part de la programació paral·lela a l'exposició \"Bèsties. Els animals en l'art medieval del MEV\". Aquesta aplega un total de 75 obres que posen de manifest la importància que tenien els animals i el simbolisme en època medieval. La mostra vol ser divulgativa, de manera que s'han desenvolupat un seguit d'activitats paral·leles on s'emmarca el PAD. En aquest sentit, el PAD serà un espai per impulsar el jove talent d'artistes que reinterpretaran les peces medievals en format digital.",
+                    "summary": "El PAD_MEV forma part de la programació paral·lela a l'exposició Bèsties. Els animals en l'art medieval del MEV. Aquesta aplega un total de 75 obres que posen de manifest la importància que tenien els animals i el simbolisme a l'Època Medieval. La mostra desenvoluparà un seguit d'activitats paral·leles en les quals s'emmarcarà el PAD. En aquest sentit, el PAD serà un espai per impulsar el jove talent d'artistes que reinterpretaran les peces medievals en format digital.",
                     "route": "pad-mev"
                 },
                 {
@@ -42,7 +42,7 @@
                     "startTime": "10:30",
                     "map": "https://www.google.com/maps/dir/?api=1&destination=41.541322,2.444209",
                     "date": "2023-12-16T09:30:00.000Z",
-                    "summary": "Aquesta és la seu que va acollir la primera edició del FIDA. Aquest any, emmarcat sota el PAD (PAD_FIDA)  Aquest equipament compta amb un fons d'art propi d'on es fa una selecció de les obres que els/les artistes joves reinterpretaran en llenguatge digital. La Fundació Iluro és una entitat activa i compromesa per fer accessible aquest fons a la ciutat de Mataró i a tothom qui el vulgui conèixer, així com amb la voluntat d'innovar en l'àmbit cultural. Amb el PAD_FIDA estem sumant esforços per tal que la Fundació pugui continuar posicionant-se i innovant a la ciutat de Mataró. D'aquesta manera, la Fundació Iluro està augmentant el seu fons d'art i obrint-lo a nous llenguatges digitals.",
+                    "summary": "<p>Aquesta és la seu que va acollir la primera edició del FIDA, que, enguany, s'emmarca sota el PAD (PAD_FIDA).</p><p>El PAD_FIDA es realitza en col·laboració amb la Fundació Iluro. Equipament que compta amb un fons d'art propi, del qual es fa una selecció d'obres que els/les artistes joves reinterpretaran en llenguatge digital. La Fundació Iluro és una entitat activa i compromesa per fer accessible el fons a la ciutat de Mataró i a tothom qui el vulgui conèixer, així com la voluntat d'innovar en l'àmbit cultural.</p><p>Amb el PAD_FIDA es sumen esforços per tal que la Fundació pugui continuar posicionant-se i innovant a la ciutat de Mataró. La mateixa que està augmentant el seu fons d'art i l'obra a nous llenguatges digitals.</p>",
                     "route": "pad-fida"
                 }
             ]
