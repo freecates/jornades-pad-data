@@ -16,7 +16,8 @@
                     "startTime": "10:30",
                     "summary": "<p>Organitzat pel museu de Terrassa en col·laboració Adhoc Cultura. El 3DT és un projecte integral que promociona l'ús de la tecnologia, l'escaneig 3D i la realitat augmentada, dins del sector patrimonial de la ciutat de Terrassa. És una iniciativa comunitària que neix amb el propòsit d'operar de forma col·laborativa i transversal.</p><p>En aquest context s'emmarca el PAD_3DT. Amb ell es vol promoure la creació artística a través del llenguatge digital amb la finalitat de divulgar i conservar la cultura i del patrimoni, en aquest cas, el de la ciutat de Terrassa. Partint de la selecció del fons artístic del museu de Terrassa i el patrimoni material, els i les artistes seleccionades per la jornada hauran de crear una nova peça digital.</p>",
                     "route": "pad-3dt",
-                    "color": "#be1622"
+                    "color": "#be1622",
+                    "bases": "https://docs.google.com/document/d/1raRzgFW1DkIa9W2wlO_wNwmvHeA-2ew4AJkStf2besA/edit"
                 },
                 {
                     "name": "PAD_ESPIGA'T",
@@ -25,7 +26,8 @@
                     "map": "https://www.google.com/maps/dir/?api=1&destination=41.5298435,1.377721",
                     "date": "2023-07-08T08:30:00.000Z",
                     "summary": "<p>El PAD_ESPIGA'T s'emmarca dins el programa de dinamització de l'equipament sociocultural de Santa Coloma de Queralt, la Farinera.</p><p>La Jornada del PAD_ESPIGA'T posa a disposició de joves artistes de la Baixa Segarra i la Conca del Barberà, l'espai de la Farinera com a espai creatiu. A través de la selecció d'obres del fons artístic i patrimonial de La Farinera i de l'Ajuntament de Santa Coloma de Queralt, quatre joves artistes s'inspiraran i crearan quatre noves peces d'art digital.</p>",
-                    "route": "pad-espiga-t"
+                    "route": "pad-espiga-t",
+                    "bases": "https://docs.google.com/document/d/1Br5uBkJTur9FUfbBOlDBVSv0oans-bt_8SUuYQPgzTw/edit"
                 },
                 {
                     "name": "PAD_MEV",
