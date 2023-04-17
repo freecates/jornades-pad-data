@@ -18,7 +18,8 @@
                     "route": "pad-3dt",
                     "color": "#be1622",
                     "bases": "https://docs.google.com/document/d/1raRzgFW1DkIa9W2wlO_wNwmvHeA-2ew4AJkStf2besA/edit",
-                    "form": "https://docs.google.com/forms/d/e/1FAIpQLSe9V5XtnmL8hz74HyfPqE_MKvIVG0RFeftHRsX5Yn5SvdE6rw/viewform"
+                    "form": "https://docs.google.com/forms/d/e/1FAIpQLSe9V5XtnmL8hz74HyfPqE_MKvIVG0RFeftHRsX5Yn5SvdE6rw/viewform",
+                    "image": "cartoixa-museu-terrassa.jpg"
                 },
                 {
                     "name": "PAD_ESPIGA'T",
@@ -29,7 +30,8 @@
                     "summary": "<p>El PAD_ESPIGA'T s'emmarca dins el programa de dinamització de l'equipament sociocultural de Santa Coloma de Queralt, la Farinera.</p><p>La Jornada del PAD_ESPIGA'T posa a disposició de joves artistes de la Baixa Segarra i la Conca del Barberà, l'espai de la Farinera com a espai creatiu. A través de la selecció d'obres del fons artístic i patrimonial de La Farinera i de l'Ajuntament de Santa Coloma de Queralt, quatre joves artistes s'inspiraran i crearan quatre noves peces d'art digital.</p>",
                     "route": "pad-espiga-t",
                     "bases": "https://docs.google.com/document/d/1Br5uBkJTur9FUfbBOlDBVSv0oans-bt_8SUuYQPgzTw/edit",
-                    "form": "https://docs.google.com/forms/d/e/1FAIpQLSf4fDqkNUFBGCs99IuYufN0Bqd-QTKR73VMaSGntGivVGDfLg/viewform"
+                    "form": "https://docs.google.com/forms/d/e/1FAIpQLSf4fDqkNUFBGCs99IuYufN0Bqd-QTKR73VMaSGntGivVGDfLg/viewform",
+                    "image": "la-farinera-de-santa-coloma-de-queralt.webp"
                 },
                 {
                     "name": "PAD_MEV",
@@ -38,7 +40,8 @@
                     "map": "https://www.google.com/maps/dir/?api=1&destination=41.928617,2.2557241",
                     "date": "2023-10-08T08:30:00.000Z",
                     "summary": "El PAD_MEV forma part de la programació paral·lela a l'exposició Bèsties. Els animals en l'art medieval del MEV. Aquesta aplega un total de 75 obres que posen de manifest la importància que tenien els animals i el simbolisme a l'Època Medieval. La mostra desenvoluparà un seguit d'activitats paral·leles en les quals s'emmarcarà el PAD. En aquest sentit, el PAD serà un espai per impulsar el jove talent d'artistes que reinterpretaran les peces medievals en format digital.",
-                    "route": "pad-mev"
+                    "route": "pad-mev",
+                    "image": "museu-medieval-de-vic.jpg"
                 },
                 {
                     "name": "PAD_FIDA",
@@ -47,7 +50,8 @@
                     "map": "https://www.google.com/maps/dir/?api=1&destination=41.541322,2.444209",
                     "date": "2023-12-16T09:30:00.000Z",
                     "summary": "<p>Aquesta és la seu que va acollir la primera edició del FIDA, que, enguany, s'emmarca sota el PAD (PAD_FIDA).</p><p>El PAD_FIDA es realitza en col·laboració amb la Fundació Iluro. Equipament que compta amb un fons d'art propi, del qual es fa una selecció d'obres que els/les artistes joves reinterpretaran en llenguatge digital. La Fundació Iluro és una entitat activa i compromesa per fer accessible el fons a la ciutat de Mataró i a tothom qui el vulgui conèixer, així com la voluntat d'innovar en l'àmbit cultural.</p><p>Amb el PAD_FIDA es sumen esforços per tal que la Fundació pugui continuar posicionant-se i innovant a la ciutat de Mataró. La mateixa que està augmentant el seu fons d'art i l'obra a nous llenguatges digitals.</p>",
-                    "route": "pad-fida"
+                    "route": "pad-fida",
+                    "image": "la-farinera-de-santa-coloma-de-queralt.webp"
                 }
             ]
         }
