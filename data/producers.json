@@ -1,26 +1,69 @@
 [
-    { "id": "001", "type": "organizer", "name": "La Nut", "url": "la-nut.webp" },
     {
-        "id": "002",
-        "type": "participant",
-        "name": "Museu de Terrassa",
-        "url": "museu-de-terrassa.webp"
+        "organizers": [{ "id": "001", "type": "organizer", "name": "La Nut", "url": "la-nut.webp" }]
     },
-    { "id": "003", "type": "participant", "name": "La Farinera", "url": "la-farinera.webp" },
     {
-        "id": "004",
-        "type": "participant",
-        "name": "Museu Art Medieval de Vic",
-        "url": "museu-art-medieval-de-vic.webp"
+        "participants": [
+            {
+                "id": "002",
+                "type": "participant",
+                "name": "Museu de Terrassa",
+                "url": "museu-de-terrassa.webp"
+            },
+            {
+                "id": "003",
+                "type": "participant",
+                "name": "La Farinera",
+                "url": "la-farinera.webp"
+            },
+            {
+                "id": "004",
+                "type": "participant",
+                "name": "Museu Art Medieval de Vic",
+                "url": "museu-art-medieval-de-vic.webp"
+            },
+            {
+                "id": "005",
+                "type": "participant",
+                "name": "Fundació Iluro",
+                "url": "fundacio-iluro.webp"
+            }
+        ]
     },
-    { "id": "005", "type": "participant", "name": "Fundació Iluro", "url": "fundacio-iluro.webp" },
     {
-        "id": "006",
-        "type": "supporter",
-        "name": "Generalitat de Catalunya",
-        "url": "generalitat-de-catalunya.webp"
+        "supporters": [
+            {
+                "id": "006",
+                "type": "supporter",
+                "name": "Generalitat de Catalunya",
+                "url": "generalitat-de-catalunya.webp"
+            }
+        ]
     },
-    { "id": "007", "type": "collaborator", "name": "Fundació Iluro", "url": "fundacio-iluro.webp" },
-    { "id": "008", "type": "sponsor", "name": "Adhoc Cultura", "url": "adhoc-cultura.webp" },
-    { "id": "009", "type": "sponsor", "name": "Sid Publicitat", "url": "sid-publicitat.webp" }
+    {
+        "collaborators": [
+            {
+                "id": "007",
+                "type": "collaborator",
+                "name": "Fundació Iluro",
+                "url": "fundacio-iluro.webp"
+            }
+        ]
+    },
+    {
+        "sponsors": [
+            {
+                "id": "008",
+                "type": "sponsor",
+                "name": "Adhoc Cultura",
+                "url": "adhoc-cultura.webp"
+            },
+            {
+                "id": "009",
+                "type": "sponsor",
+                "name": "Sid Publicitat",
+                "url": "sid-publicitat.webp"
+            }
+        ]
+    }
 ]
