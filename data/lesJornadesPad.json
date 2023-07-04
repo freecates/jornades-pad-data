@@ -32,7 +32,8 @@
                     "route": "pad-espiga-t",
                     "bases": "https://docs.google.com/document/d/1Br5uBkJTur9FUfbBOlDBVSv0oans-bt_8SUuYQPgzTw/edit",
                     "form": "https://docs.google.com/forms/d/e/1FAIpQLSf4fDqkNUFBGCs99IuYufN0Bqd-QTKR73VMaSGntGivVGDfLg/viewform",
-                    "image": "la-farinera-de-santa-coloma-de-queralt.webp"
+                    "image": "la-farinera-de-santa-coloma-de-queralt.webp",
+                    "isCancelled": true
                 },
                 {
                     "name": "PAD_MEV",
