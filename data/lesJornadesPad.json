@@ -24,26 +24,28 @@
                 },
                 {
                     "name": "PAD_ESPIGA'T",
-                    "place": "Farinera de Santa Coloma de Queralt",
+                    "place": "Museu de la Vida Rural",
                     "startTime": "10:30",
-                    "map": "https://www.google.com/maps/dir/?api=1&destination=41.5298435,1.377721",
-                    "date": "2023-07-08T08:30:00.000Z",
-                    "summary": "<p>El PAD_ESPIGA'T s'emmarca dins el programa de dinamització de l'equipament sociocultural de Santa Coloma de Queralt, la Farinera.</p><p>La Jornada del PAD_ESPIGA'T posa a disposició de joves artistes de la Baixa Segarra i la Conca del Barberà, l'espai de la Farinera com a espai creatiu. A través de la selecció d'obres del fons artístic i patrimonial de La Farinera i de l'Ajuntament de Santa Coloma de Queralt, quatre joves artistes s'inspiraran i crearan quatre noves peces d'art digital.</p>",
+                    "map": "https://www.google.com/maps/dir/?api=1&destination=41.4103908,2.1941609",
+                    "date": "2023-09-30T08:30:00.000Z",
+                    "summary": "",
                     "route": "pad-espiga-t",
                     "bases": "https://docs.google.com/document/d/1Br5uBkJTur9FUfbBOlDBVSv0oans-bt_8SUuYQPgzTw/edit",
                     "form": "https://docs.google.com/forms/d/e/1FAIpQLSf4fDqkNUFBGCs99IuYufN0Bqd-QTKR73VMaSGntGivVGDfLg/viewform",
-                    "image": "la-farinera-de-santa-coloma-de-queralt.webp",
-                    "isCancelled": true
+                    "image": "museu-de-la--vida-rural.webp",
+                    "isCancelled": false,
+                    "program": "20230930-jornades-pad-cartell-espigat.pdf"
                 },
                 {
                     "name": "PAD_MEV",
                     "place": "Museu d'Art Medieval de Vic",
                     "startTime": "10:30",
                     "map": "https://www.google.com/maps/dir/?api=1&destination=41.928617,2.2557241",
-                    "date": "2023-10-08T08:30:00.000Z",
+                    "date": "2023-11-30T08:30:00.000Z",
                     "summary": "El PAD_MEV forma part de la programació paral·lela a l'exposició Bèsties. Els animals en l'art medieval del MEV. Aquesta aplega un total de 75 obres que posen de manifest la importància que tenien els animals i el simbolisme a l'Època Medieval. La mostra desenvoluparà un seguit d'activitats paral·leles en les quals s'emmarcarà el PAD. En aquest sentit, el PAD serà un espai per impulsar el jove talent d'artistes que reinterpretaran les peces medievals en format digital.",
                     "route": "pad-mev",
-                    "image": "museu-medieval-de-vic.jpg"
+                    "image": "museu-medieval-de-vic.jpg",
+                    "program": "20230930-jornades-pad-cartell-espigat.pdf"
                 },
                 {
                     "name": "PAD_FIDA",
