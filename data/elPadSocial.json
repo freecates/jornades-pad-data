@@ -20,8 +20,8 @@
                     "startTime": "10:30",
                     "map": "https://www.google.com/maps/dir/?api=1&destination=41.541322,2.444209",
                     "date": "2024-09-01T09:30:00.000Z",
-                    "bases": "",
-                    "form": "",
+                    "bases": "AC_PAD_SOCIAL_2024_BASES.pdf",
+                    "form": "https://docs.google.com/forms/d/e/1FAIpQLSe6qSa5gLt7QhQvzmooF-YBxhvpIB2qJmFMrB2hx4rnE9b_dQ/formrestricted",
                     "program": ""
                 }
             ]
