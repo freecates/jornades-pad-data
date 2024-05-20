@@ -7,9 +7,9 @@
                 "route": "/el-pad"
             },
             {
-                "name": "La Nut",
-                "description": "La Nut és una influencer, però no una influencer com a qualsevol altre, és una influencer digital!",
-                "route": "/la-nut"
+                "name": "El Pad Social",
+                "description": "El PAD Social és una innovadora línia del PAD que connecta joves artistes emergents...",
+                "route": "/el-pad-social"
             },
             {
                 "name": "Les Jornades PAD",
