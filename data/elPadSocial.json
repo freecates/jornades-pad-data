@@ -13,6 +13,16 @@
                 "name": "Cartell General PAD Social 2024",
                 "url": ""
             }
+        },
+        "event": {
+            "name": "PAD_SOCIAL",
+            "place": "Ateneu de la Fundació Iluro",
+            "startTime": "10:30",
+            "map": "https://www.google.com/maps/dir/?api=1&destination=41.541322,2.444209",
+            "date": "2024-09-01T09:30:00.000Z",
+            "bases": "",
+            "form": "",
+            "program": ""
         }
     }
 ]
