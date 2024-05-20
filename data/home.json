@@ -8,6 +8,22 @@
         "content": {
             "when": "Juny, juliol, octubre i desembre",
             "where": "Terrassa, Santa Coloma de Queralt, Vic i Mataró"
+        },
+        "videos": {
+            "mainVideo": {
+                "width": "1920",
+                "height": "1080",
+                "srcSet": [
+                    {
+                        "type": "video/mp4",
+                        "src": "jornades-pad.mp4"
+                    },
+                    {
+                        "type": "video/webm",
+                        "src": "jornades-pad.webm"
+                    }
+                ]
+            }
         }
     }
 ]
