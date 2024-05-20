@@ -1,32 +1,39 @@
 [
     {
-        "organizers": [{ "id": "001", "type": "organizer", "name": "La Nut", "url": "la-nut.webp" }]
+        "organizers": [
+            {
+                "id": "001",
+                "type": "organizer",
+                "name": "Adhoc Cultura",
+                "url": "adhoc-cultura.webp"
+            },
+            {
+                "id": "002",
+                "type": "organizer",
+                "name": "Fundació Iluro",
+                "url": "fundacio-iluro.webp"
+            }
+        ]
     },
     {
         "participants": [
             {
-                "id": "002",
+                "id": "003",
                 "type": "participant",
                 "name": "Museu de Terrassa",
                 "url": "museu-de-terrassa.webp"
             },
             {
-                "id": "003",
-                "type": "participant",
-                "name": "La Farinera",
-                "url": "la-farinera.webp"
-            },
-            {
                 "id": "004",
                 "type": "participant",
-                "name": "MEV, Museu Art Medieval",
-                "url": "museu-art-medieval-de-vic.webp"
+                "name": "Museu Terra",
+                "url": "museu-terra.webp"
             },
             {
                 "id": "005",
                 "type": "participant",
-                "name": "Fundació Iluro",
-                "url": "fundacio-iluro.webp"
+                "name": "MEV, Museu Art Medieval",
+                "url": "museu-art-medieval-de-vic.webp"
             }
         ]
     },
@@ -54,12 +61,6 @@
         "sponsors": [
             {
                 "id": "008",
-                "type": "sponsor",
-                "name": "Adhoc Cultura",
-                "url": "adhoc-cultura.webp"
-            },
-            {
-                "id": "009",
                 "type": "sponsor",
                 "name": "Sid Publicitat",
                 "url": "sid-publicitat.webp"

@@ -22,7 +22,7 @@
                     "when": "Setembre/Octubre/Novembre",
                     "bases": "AC_PAD_SOCIAL_2024_BASES.pdf",
                     "form": "https://docs.google.com/forms/d/e/1FAIpQLSe6qSa5gLt7QhQvzmooF-YBxhvpIB2qJmFMrB2hx4rnE9b_dQ/formrestricted",
-                    "program": ""
+                    "program": false
                 }
             ]
         }
