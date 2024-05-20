@@ -29,10 +29,12 @@
                     "date": "2023-10-26T08:30:00.000Z",
                     "summary": "",
                     "route": "pad-terra",
+                    "color": "#ffe2aa",
                     "bases": "",
                     "form": "",
                     "isCancelled": false,
-                    "program": ""
+                    "program": "",
+                    "image": "museu-terra.jpg"
                 },
                 {
                     "name": "PAD_MEV",
