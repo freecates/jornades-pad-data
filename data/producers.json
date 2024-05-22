@@ -13,7 +13,7 @@
         "participants": [
             {
                 "id": "002",
-                "type": "organizer",
+                "type": "participant",
                 "name": "Fundació Iluro",
                 "url": "fundacio-iluro.webp"
             },
