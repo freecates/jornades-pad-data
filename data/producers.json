@@ -6,17 +6,17 @@
                 "type": "organizer",
                 "name": "Adhoc Cultura",
                 "url": "adhoc-cultura.webp"
-            },
-            {
-                "id": "002",
-                "type": "organizer",
-                "name": "Fundació Iluro",
-                "url": "fundacio-iluro.webp"
             }
         ]
     },
     {
         "participants": [
+            {
+                "id": "002",
+                "type": "organizer",
+                "name": "Fundació Iluro",
+                "url": "fundacio-iluro.webp"
+            },
             {
                 "id": "003",
                 "type": "participant",
@@ -52,8 +52,8 @@
             {
                 "id": "007",
                 "type": "collaborator",
-                "name": "Fundació Carulla",
-                "url": "fundacio-carulla.webp"
+                "name": "Sid Publicitat",
+                "url": "sid-publicitat.webp"
             }
         ]
     },
@@ -62,8 +62,8 @@
             {
                 "id": "008",
                 "type": "sponsor",
-                "name": "Sid Publicitat",
-                "url": "sid-publicitat.webp"
+                "name": "CaixaBank",
+                "url": "caixabank.webp"
             }
         ]
     }
