@@ -10,11 +10,11 @@
             "pads": [
                 {
                     "name": "PAD_3DT",
-                    "place": "Cartoixa Museu de Terrassa",
-                    "map": "https://www.google.com/maps/dir/?api=1&destination=41.5646448,2.0191426",
+                    "place": "Casa Alegre Sagrera",
+                    "map": "https://www.google.com/maps/dir/?api=1&destination=41.5628167,2.0098006",
                     "date": "2024-10-12T08:30:00.000Z",
                     "startTime": "10:30",
-                    "summary": "<p>Organitzat pel museu de Terrassa en col·laboració Adhoc Cultura. El 3DT és un projecte integral que promociona l'ús de la tecnologia, l'escaneig 3D i la realitat augmentada, dins del sector patrimonial de la ciutat de Terrassa. És una iniciativa comunitària que neix amb el propòsit d'operar de forma col·laborativa i transversal.</p><p>En aquest context s'emmarca el PAD_3DT. Amb ell es vol promoure la creació artística a través del llenguatge digital amb la finalitat de divulgar i conservar la cultura i del patrimoni, en aquest cas, el de la ciutat de Terrassa. Partint de la selecció del fons artístic del museu de Terrassa i el patrimoni material, els i les artistes seleccionades per la jornada hauran de crear una nova peça digital.</p>",
+                    "summary": "<p>El Museu de Terrassa, a la Casa Alegre Sagrera, ofereix una convocatòria per a seleccionar quatre joves artistes digitals (entre 18 i 30 anys) residents a Catalunya. Els seleccionats podran crear noves obres inspirades en la col·lecció del museu, explorant nous llenguatges i perspectives en un entorn patrimonial. Aquesta iniciativa busca fomentar la creació de llaços entre els artistes i la comunitat artística i patrimonial, donant espai a l'art digital dins del museu</p>",
                     "route": "pad-3dt",
                     "color": "#be1622",
                     "bases": "https://docs.google.com/document/d/1JNKKszyEzazP-GDKQzsUMsje2Tto9Zo4-hhmvv4a5sE/edit?usp=sharing",
@@ -24,15 +24,15 @@
                 },
                 {
                     "name": "PAD_TERRA",
-                    "place": "Museu Terra",
+                    "place": "Museu d'Art Medieval",
                     "startTime": "10:30",
                     "map": "https://www.google.com/maps/dir/?api=1&destination=41.3965136,1.0237862",
-                    "date": "2024-10-26T08:30:00.000Z",
-                    "summary": "",
+                    "date": "2024-11-30T08:30:00.000Z",
+                    "summary": "<p>El MEV, Museu d'Art Medieval, obre una convocatòria per seleccionar quatre joves artistes digitals (entre 18 i 30 anys, residents a Catalunya) per crear obres inspirades en el text “El joc de saber mirar” d'Antoni Tàpies, publicat a Cavall Fort el 1967. Les obres es mostraran temporalment al museu com part de la celebració de l'any Tàpies, oferint als artistes l'oportunitat d'explorar nous llenguatges artístics dins un entorn patrimonial.</p>",
                     "route": "pad-terra",
                     "color": "#ffe2aa",
-                    "bases": null,
-                    "form": null,
+                    "bases": "https://docs.google.com/document/d/148Rd48C03vWixDWA0s7cBrOeLclCJJvszrcuJhb8f6c/edit?usp=sharing",
+                    "form": "https://forms.gle/zTAP3zqwcJHBCvmH6",
                     "isCancelled": false,
                     "program": "",
                     "image": "museu-terra.jpg"
@@ -61,7 +61,7 @@
                     "route": "pad-fida",
                     "image": "ateneu-fundacio-iluro.jpg",
                     "bases": null,
-"form": null
+                    "form": null
                 }
             ]
         }
