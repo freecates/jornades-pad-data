@@ -20,7 +20,8 @@
                     "bases": "https://docs.google.com/document/d/1JNKKszyEzazP-GDKQzsUMsje2Tto9Zo4-hhmvv4a5sE/edit?usp=sharing",
                     "form": "https://forms.gle/EUr9eGj9ghYxt1qL7",
                     "program": "",
-                    "image": "casa-alegre-sagrera-museu-terrassa.jpg"
+                    "image": "casa-alegre-sagrera-museu-terrassa.jpg",
+                    "isClosed": true
                 },
                 {
                     "name": "PAD_TERRA",
