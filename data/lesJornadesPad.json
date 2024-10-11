@@ -46,9 +46,9 @@
                     "date": "2024-11-23T08:30:00.000Z",
                     "summary": "<p>El MEV, Museu d'Art Medieval, obre una convocatòria per seleccionar quatre joves artistes digitals (entre 18 i 30 anys, residents a Catalunya) per crear obres inspirades en el text “El joc de saber mirar” d'Antoni Tàpies, publicat a Cavall Fort el 1967. Les obres es mostraran temporalment al museu com part de la celebració de l'any Tàpies, oferint als artistes l'oportunitat d'explorar nous llenguatges artístics dins un entorn patrimonial.</p>",
                     "route": "pad-mev",
-                    "bases": null,
+                    "bases": "https://docs.google.com/document/d/1gWjoKZdMKBUd5WmzScUaSeDxttBOQTwy0x5jsG78yWo/edit?usp=sharing",
                     "localBases": "",
-                    "form": null,
+                    "form": "https://forms.gle/zTAP3zqwcJHBCvmH6",
                     "image": "museu-medieval-de-vic.jpg",
                     "program": ""
                 },
