@@ -46,9 +46,9 @@
                     "date": "2024-11-23T08:30:00.000Z",
                     "summary": "<p>El MEV, Museu d'Art Medieval, obre una convocatòria per seleccionar quatre joves artistes digitals (entre 18 i 30 anys, residents a Catalunya) per crear obres inspirades en el text “El joc de saber mirar” d'Antoni Tàpies, publicat a Cavall Fort el 1967. Les obres es mostraran temporalment al museu com part de la celebració de l'any Tàpies, oferint als artistes l'oportunitat d'explorar nous llenguatges artístics dins un entorn patrimonial.</p>",
                     "route": "pad-mev",
-                    "bases": "https://docs.google.com/document/d/1gWjoKZdMKBUd5WmzScUaSeDxttBOQTwy0x5jsG78yWo/edit?usp=sharing",
+                    "bases": null,
                     "localBases": "",
-                    "form": "https://forms.gle/zTAP3zqwcJHBCvmH6",
+                    "form": null,
                     "image": "museu-medieval-de-vic.jpg",
                     "program": ""
                 },
@@ -57,12 +57,12 @@
                     "place": "Ateneu de la Fundació Iluro",
                     "startTime": "10:30",
                     "map": "https://www.google.com/maps/dir/?api=1&destination=41.541322,2.444209",
-                    "date": "2024-12-13T09:30:00.000Z",
-                    "summary": "<p>Aquesta és la seu que va acollir la primera edició del FIDA, que, enguany, s'emmarca sota el PAD (PAD_FIDA).</p><p>El PAD_FIDA es realitza en col·laboració amb la Fundació Iluro. Equipament que compta amb un fons d'art propi, del qual es fa una selecció d'obres que els/les artistes joves reinterpretaran en llenguatge digital. La Fundació Iluro és una entitat activa i compromesa per fer accessible el fons a la ciutat de Mataró i a tothom qui el vulgui conèixer, així com la voluntat d'innovar en l'àmbit cultural.</p><p>Amb el PAD_FIDA es sumen esforços per tal que la Fundació pugui continuar posicionant-se i innovant a la ciutat de Mataró. La mateixa que està augmentant el seu fons d'art i l'obra a nous llenguatges digitals.</p>",
+                    "date": "2024-12-14T00:30:00.000Z",
+                    "summary": "<p>La Fundació Iluro busca quatre joves artistes digitals, residents a Catalunya i d'entre 18 i 30 anys, per crear obres inspirades en la col·lecció del seu fons. Les noves creacions s'exposaran a l'Ateneu Centre Cultural de Mataró, on els artistes podran explorar nous llenguatges artístics dins un espai patrimonial. Aquesta convocatòria pretén fomentar la connexió entre artistes joves i la comunitat artística i patrimonial.</p>",
                     "route": "pad-fida",
                     "image": "ateneu-fundacio-iluro.jpg",
-                    "bases": null,
-                    "form": null
+                    "bases": "https://docs.google.com/document/d/11-ElS18KoYu2ikjBWRU5wf7h-xh8DeJLAhNGTPCYxYU/edit?usp=sharing",
+                    "form": "https://forms.gle/dhJoTVRL67jEPoPJ8"
                 }
             ]
         }
