@@ -15,6 +15,11 @@
                 "name": "Les Jornades PAD",
                 "description": "PAD_3DT / PAD_ESPIGA'T / PAD_MEV / PAD_FIDA",
                 "route": "/les-jornades-pad"
+            },
+            {
+                "name": "El Pad Academia",
+                "description": "El Pad Academia és una iniciativa que promou la formació i la creació de joves artistes digitals...",
+                "route": "/el-pad-academia"
             }
         ]
     }
