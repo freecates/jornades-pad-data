@@ -16,11 +16,11 @@
                 "srcSet": [
                     {
                         "type": "video/mp4",
-                        "src": "jornades-pad.mp4"
+                        "src": "https://jornades-pad-data.vercel.app/static/jornades-pad.mp4"
                     },
                     {
                         "type": "video/webm",
-                        "src": "jornades-pad.webm"
+                        "src": "https://jornades-pad-data.vercel.app/static/jornades-pad.webm"
                     }
                 ]
             }
